@@ -1,0 +1,88 @@
+.banner{ 
+background: linear-gradient(0.25turn,#1D5B8F, #239460);
+text-align: center;
+height: 100px;
+color: white;
+padding-top: 30px;
+padding-bottom: 20px;
+font-weight: 600;
+margin-top: 0px;
+}
+.contain_search{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+table{
+    table-layout:fixed;
+    width: 100%;
+}
+.search{
+    height: 60px;
+    width: 93%;
+    text-indent: 15px;
+    font-size: 25px;
+    margin-right: 10px;
+}
+body{
+    margin: 0px; 
+    font-family: 'Roboto', sans-serif;
+
+}
+.icon{
+    height: 65px;
+    width: 65px;
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+::placeholder{
+    font-size: 30px;
+}
+
+#results{
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+form{
+    margin-left: 20px;
+    display: flex;
+    align-items: center
+}
+
+td .f{
+    max-width: 300px;
+    font-size: 20px;
+    margin-right: 0px;
+    vertical-align: text-top;
+    padding-top: 5px;
+}
+td .s{
+    max-width: 500px;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+tr .ff{
+    width: 500px;
+}
+tr{
+    vertical-align: top;
+    margin-bottom: 50px;
+}
+#fav{
+    padding-left: 20px;
+    background-color: #F7FFF8;
+    height: 100%;
+    padding-top: 5px;
+}
+.star{
+    height: 25px;
+    width: 24px;
+}
+.star2{
+    height: 20px;
+    width: 24px;
+}
+#favlabel{
+    color: #239460;
+}
