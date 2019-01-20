@@ -1,4 +1,4 @@
 # Shopify-Web-Challenge
 
 Hosted Version
-https://ivanaerlichchallenge.netlify.com/
+`https://ivanaerlichchallenge.netlify.com/`
